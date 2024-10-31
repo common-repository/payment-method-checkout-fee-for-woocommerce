@@ -1,0 +1,6 @@
+{
+    "name": "valentinvipe/payment-method-checkout-fee-for-woocommerce",
+    "require": {
+        "monolog/monolog": "^3.5"
+    }
+}
